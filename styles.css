@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background:#09F url(images/bg.png); font-size:12px; font-family:Verdana, Geneva, sans-serif; color:#000;}
+
+h1 {font-size:14px; width:100px; border:1px solid #000; float:left; height:31px; text-align:center; padding-top:5px;}
+
+#monday {width:1105px; border:1px solid #000; float: left; height:34px; margin-left:32px; margin-top:8px; padding-top:2px; background:#0099ff;}
+#tuesday {width:1105px; border:1px solid #000; float: left; height:34px; margin-left:32px; margin-top:8px; padding-top:2px; background:#0099ff;}
+#wednesday {width:1105px; border:1px solid #000; float: left; height:34px; margin-left:32px; margin-top:8px; padding-top:2px; background:#0099ff;}
+#thursday {width:1105px; border:1px solid #000; float: left; height:34px; margin-left:32px; margin-top:8px; padding-top:2px; background:#0099ff;}
+#friday {width:1105px; border:1px solid #000; float: left; height:34px; margin-left:32px; margin-top:8px; padding-top:2px; background:#0099ff;}
+#saturday {width:1105px; border:1px solid #000; float: left; height:34px; margin-left:32px; margin-top:8px; padding-top:2px; background:#0099ff;}
+#sunday {width:1105px; border:1px solid #000; float: left; height:34px; margin-left:32px; margin-top:8px; padding-top:2px; background:#1C99E3;}
+
+fieldset {background:#919191; width:280px; border:1px solid #000;}
+legend {font-size:16px;}
+
+#shown {height:30px; background:#999 url(images/grey.png); position:absolute; text-align:center; border:1px black solid;}
+#shownDone {height:30px; background:#09f url(images/blue.png); position:absolute; text-align:center; border:1px solid black;}
+
+a#shownAnchor {text-decoration:none; color:#000;}
+a#shownAnchor:hover {color:#CCC;}
