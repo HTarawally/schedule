@@ -1,4 +1,4 @@
-# Schedule V2
+# Schedule
 
 <p align="center">
   <img src="../media/app_screenshot.png?raw=true" width="500" />
